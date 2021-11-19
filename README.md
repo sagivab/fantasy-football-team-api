@@ -11,9 +11,10 @@ A simple application where soccer fans will create fantasy teams and will be abl
 
 **Installation**
 
-- git clone git@git.toptal.com:screening/Sagiv-Abdush.git
-- Inside the cloned directory run "npm install"
-- "npm start"
+- git clone git@github.com:sagivab/fantasy-football-team-api.git
+- cd fantasy-football-team-api
+- run "npm install"
+- run "npm start"
 
 **How to use**
 
