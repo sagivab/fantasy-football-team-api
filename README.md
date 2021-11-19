@@ -16,6 +16,10 @@ A simple application where soccer fans will create fantasy teams and will be abl
 - run "npm install"
 - run "npm start"
 
+**Testing**
+
+- inside the directory run "npm test"
+
 **How to use**
 
 Anyone can create a user via http://127.0.0.1:5000/user/register
