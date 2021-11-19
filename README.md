@@ -14,6 +14,7 @@ A simple application where soccer fans will create fantasy teams and will be abl
 - git clone git@github.com:sagivab/fantasy-football-team-api.git
 - cd fantasy-football-team-api
 - run "npm install"
+- change the SECRET_KEY enviroment variable(could be done over the .env file).
 - run "npm start"
 
 **Testing**
