@@ -19,7 +19,7 @@ A simple application where soccer fans will create fantasy teams and will be abl
 
 **Testing**
 
-- inside the directory run "npm test"
+- npm test
 
 **How to use**
 
